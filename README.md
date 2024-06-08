@@ -1,1 +1,1 @@
-Bookbot is my first project!
+Bookbot: A simple text analysis app.
