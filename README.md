@@ -1,2 +1,1 @@
-# bookbot
-A simple bot for statistical analysis of books.
+Bookbot is my first project!
